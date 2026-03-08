@@ -355,7 +355,7 @@
             "format": "uri",
             "maxLength": 250,
             "title": "The script background image",
-            "examples": ["https://imgur.com/background.jpg"]
+            "examples": ["https://imgur.com/a/PnIkC8L"]
           },
           "almanac": {
             "type": "string",
